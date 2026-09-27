@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tape Measure AR</string>
+    <string name="reset">Reset measurement</string>
+
+    <string name="status_move_phone">Move your phone slowly to detect surfaces</string>
+    <string name="status_tap_first_point">Tap a surface to place the start point</string>
+    <string name="status_tap_second_point">Tap a surface to place the end point</string>
+    <string name="status_tap_reset">Tap the ✕ button, or tap the screen again, to measure something else</string>
+
+    <string name="camera_permission_needed">Camera permission is required to measure distances</string>
+    <string name="arcore_unavailable">This device does not support ARCore, so it can\'t use the camera as a measuring tape</string>
+    <string name="arcore_install_failed">Google Play Services for AR could not be installed</string>
+</resources>
